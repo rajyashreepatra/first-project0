@@ -3,3 +3,5 @@
 *.py
 
 !important.py
+
+[a e i o u]* .php
